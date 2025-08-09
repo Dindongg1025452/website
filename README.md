@@ -1,5 +1,3 @@
-# website
-<!DOCTYPE html>
 <link rel="stylesheet" href="style.css">
 <html lang="en">
     <title>Berbagai permainan horror menegangkan dengan roblox</title>
@@ -50,5 +48,3 @@ Game ini mirip dengan Phasmophobia versi Roblox, di mana pemain menjadi pemburu 
 <p>Game horor di Roblox menunjukkan bahwa kreativitas komunitas bisa melampaui batas. Dengan alat yang sederhana, para pengembang muda mampu menciptakan pengalaman bermain yang menyeramkan dan mendebarkan. Namun, seperti genre horor pada umumnya, pemain perlu bijak dalam memilih game sesuai usia dan kesiapan mental mereka.</p>
 <marquee behavior="alternate" direction="right"><img src="Cuplikan layar 2025-07-08 215529.png" alt="gambar error"></marquee>
 <a href="https://www.roblox.com/download"><h1 style="text-align: center; background-color: aqua; padding: 10px; margin: 10px; display: block; border-radius: 20px;">Download disini!!</h1></a>
-</body>
-</html>
